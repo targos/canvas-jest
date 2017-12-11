@@ -1,0 +1,23 @@
+{
+  "name": "canvas-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/targos/canvas-jest.git"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/targos/canvas-jest/issues"
+  },
+  "homepage": "https://github.com/targos/canvas-jest#readme",
+  "dependencies": {
+    "canvas": "^2.0.0-alpha.7",
+    "jest": "^21.2.1"
+  }
+}
